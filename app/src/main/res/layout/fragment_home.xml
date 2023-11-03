@@ -66,8 +66,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="text"
-            android:text="Ingrediente" />
+            android:inputType="text" />
 
         <Space
             android:layout_width="match_parent"
@@ -86,8 +85,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="text"
-            android:text="Ingrediente" />
+            android:inputType="text" />
 
         <Space
             android:layout_width="match_parent"
@@ -106,8 +104,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="text"
-            android:text="Name" />
+            android:inputType="text" />
 
         <Space
             android:layout_width="match_parent"
@@ -127,8 +124,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="text"
-            android:text="Ingrediente" />
+            android:inputType="text" />
 
         <Space
             android:layout_width="match_parent"
@@ -147,8 +143,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="text"
-            android:text="Ingrediente" />
+            android:inputType="text" />
     </LinearLayout>
 
     <LinearLayout
@@ -167,7 +162,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:backgroundTint="@color/black"
+            android:backgroundTint="@color/design_default_color_secondary_variant"
             android:backgroundTintMode="add"
             android:drawableTint="@color/black"
             android:fadingEdge="horizontal"
