@@ -10,4 +10,9 @@
     <string name="menu_home">Agregar Receta</string>
     <string name="menu_gallery">Ver Receta</string>
     <string name="menu_slideshow">Generar Etiqueta</string>
+
+    <string name="boton_agregar">Agregar</string>
+
+
+
 </resources>
