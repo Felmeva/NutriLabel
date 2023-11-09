@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162923985520",
+    "project_id": "nutrilabel-51a25",
+    "storage_bucket": "nutrilabel-51a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162923985520:android:d484fbc4debf0a383812b5",
+        "android_client_info": {
+          "package_name": "cl.ipvg.nutrilabel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvXJuxX7dnBRA953aUnroTDTU73-SVzMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
